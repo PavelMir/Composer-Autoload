@@ -1,0 +1,11 @@
+{
+    "name": "mironenko/lesson12",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
